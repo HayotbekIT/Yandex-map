@@ -90,7 +90,6 @@ body {
 
 .ip-infoholder {
     list-style-type: none;
-    display: inline-block;
     background: #FFFFFF;
     border-radius: 15px;
     padding: 25px;
@@ -99,6 +98,7 @@ body {
     margin-right: auto;
     position: relative;
     z-index: 2;
+    width: 274px;
 }
 
 .ip-infoholder>*+* {
