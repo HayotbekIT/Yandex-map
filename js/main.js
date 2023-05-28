@@ -35,8 +35,6 @@ const GetInfo = () => {
 
     time.textContent = `${date.getHours()}:${date.getMinutes()}:${date.getSeconds()}`
 
-    
-
     mapholder.innerHTML = ""
 
     ymaps.ready(init)
