@@ -129,6 +129,15 @@ body {
     background: gray;
 }
 
+.footer {
+    text-align: center;
+    padding: 15px 0;
+}
+
+.footer a {
+    color: inherit;
+}
+
 @media(min-width: 1110px) {
     .ip-infoholder {
         width: 700px;
